@@ -1,2 +1,0 @@
-* error in commits to master
-* second commit
